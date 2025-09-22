@@ -1,0 +1,1 @@
+document.querySelector('form').addEventListener('submit',e=>{e.preventDefault();alert('Formulaire démo. Configure un vrai service pour recevoir les réservations.');});
